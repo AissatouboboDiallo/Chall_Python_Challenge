@@ -1,0 +1,2 @@
+2304004423,diallo,aissatou,2,10,10.0,[{'genie_logiciel': 10.0}, {'php': 10.0}, {'oracle': 10.0}, {'windev': 10.0}, {'python': 10.0}]
+230400442729,Barry,Mouctar,4,17,10.0,[{'genie_logiciel': 10.0}, {'php': 10.0}, {'oracle': 10.0}, {'windev': 10.0}, {'python': 10.0}]
